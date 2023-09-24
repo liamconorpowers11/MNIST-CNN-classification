@@ -1,3 +1,5 @@
+Tasks: Classifying MNIST Dataset (Handwritten Numbers)
+
 Packages: Numpy, Tensorflow, Keras
 
 Model: CNN
